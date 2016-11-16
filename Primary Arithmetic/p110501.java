@@ -31,8 +31,7 @@ public class p110501 {
 				carry++;
 				x = x + ratio;
 			}
-			result = numOfCarry(x, y, ratio*10, carry);
-			return result;
+			return = numOfCarry(x, y, ratio*10, carry);
 		}
 
 		
